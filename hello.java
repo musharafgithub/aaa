@@ -1,5 +1,5 @@
 public class hello{
-public static void main(str main[]){
+public static void main(string main[]){
 system.out.println("hello everyone");
 }
 }
